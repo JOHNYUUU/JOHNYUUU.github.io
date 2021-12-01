@@ -1,0 +1,18 @@
+body{
+	background-color: lightgrey;
+}
+em{
+	color:grey;
+}
+ins{
+	color: red;
+}
+P,ul{
+	color: black;
+}
+h3{
+	color: black;
+}
+a,b{
+	color:black;
+}

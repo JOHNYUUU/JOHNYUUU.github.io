@@ -1,0 +1,12 @@
+body{
+	background-color: orangered;
+}
+em,INS,a,b{
+	color:white;
+}
+P,ul{
+	color: yellow;
+}
+h3{
+	color: ghostwhite;
+}

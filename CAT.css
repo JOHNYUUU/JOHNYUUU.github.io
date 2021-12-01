@@ -1,0 +1,11 @@
+body{
+	background-image:  url(catlogo.png);
+	background-size: 35%;
+	background-attachment: fixed;
+	background-color: #faf6e1;
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+th,td{
+	font-size: 1.5em;
+}
